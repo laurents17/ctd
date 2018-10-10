@@ -1,0 +1,1 @@
+This folder contains examples of how to structure classes and have them inherit/reference each other.
